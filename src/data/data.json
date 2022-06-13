@@ -1,0 +1,189 @@
+{
+  "Header": {
+    "title": "Stop Muslim Oppression in China",
+    "paragraph": "What are you waiting for?"
+  },
+  "About": {
+    "paragraph": "Founded in February 2022, Justice For The Oppressed is a non-profit organization aiming to bring justice to Muslim minorities in Xinjiang, China. ",
+    "Why": [
+      "Spread awareness through our social media campaign",
+      "Encourage youth to take action by presenting to their schools",
+      "Raise $1,000 by June 30th to support the movement"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.webp"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.webp"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.webp"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "In China, Uyghur Muslims have been oppressed for years, and this oppression continues even today. Don’t let the CCP get away with genocide. #HearTheOppressed",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Take advantage of your voice and speak for the millions of Muslims in China who are silenced. #HearTheOppressed",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Genocide is literally occurring right now in the most economically powerful country in the world. Most of the products you own come from China. Wake up. Don’t let the CCP fool you. #HearTheOppressed",
+      "name": "Mike Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "China’s internment of nearly one million Uighur Muslims is among the worst abuses of human rights in the world today. We cannot be silent — we must speak out against this oppression and relentlessly defend human rights around the world. #HearTheOppressed",
+      "name": "Jane Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "Be grateful that you can freely practice your religion without being imprisoned and tortured for the rest of your life. #HearTheOppressed",
+      "name": "Jeff Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "I pray for the safety of my family in Xinjiang. Please, I beg everyone who sees this to do what you can to help. Shares, donations, protests, they all help. #HearTheOppressed",
+      "name": "Karen Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "50 Springside Rd, Maple, ON L6A2W5",
+    "phone": "+1 123 456 1234",
+    "email": "341181147@gapps.yrdsb.ca",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Who is Affected?",
+      "text": "Uyghurs and other Muslim minorities in Xinjiang, China, including Kazakhs and Uzbeks."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "What is Happening?",
+      "text": "Muslim minorities in China are being unjustly imprisoned in internment camps where they are physically, emotionally, and sexually abused until they lose their religion and culture."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Where is it Happening?",
+      "text": "In Xinjiang which is the northwestern region of China. Xinjiang borders Kazakhstan, Kyrgyzstan, and Tajikistan to the northwest, Pakistan and India to the southwest, Mongolia to the northeast, Russia to the north, and Afghanistan to the west."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "When did it start?",
+      "text": "It started in April of 2017 and is still ongoing."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Why is it happening?",
+      "text": "The Chinese government feels threatened by the large Muslim population in Xinjiang because of potential separatism of the region from China. Losing Xinjiang harms China’s Belt and Road Initiative, which aims to create more trading routes between China and neighboring countries. However, they claim that their “re-education” camps prevent religious extremism, separatism, and international terrorism."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "How can we help?",
+      "text": "",
+      "link": "#contact",
+      "linkText": "Resources"
+    }
+  ]
+}
