@@ -1,36 +1,23 @@
-# React JS Landing Page Template
+You can visit the website here: https://social-issue.vercel.app/
 
-**
+This website is a grade 11 English Independent Study Unit project aimed at raising awareness and advocating for the oppressed Muslim population in China.
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+Built using React.js, this dynamic and interactive platform provides information on the current situation, human rights violations, and ways to support the cause. The website is designed to educate and engage visitors, with the goal of promoting empathy and action towards this pressing issue.
 
-**
+The website features include:
 
+    Overview of the current situation in China
+    Detailed information on human rights violations
+    Ways to take action and support the cause
 
-### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
+Getting Started
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+To run the website locally on your machine, follow these steps:
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+    Clone the repository to your local machine
+    Navigate to the project directory in your terminal
+    Run npm install to install the necessary dependencies
+    Run npm start to start the development server
+    Visit http://localhost:3000 in your browser to view the website
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-
-
-## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
-
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-
-##### Issaaf kattan
-# social-issue
-# social-issue
+Feel free to contribute to the project by creating pull requests, reporting issues, or suggesting improvements. Together, we can make a difference in the lives of oppressed Muslim communities in China.
