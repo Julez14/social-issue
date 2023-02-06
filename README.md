@@ -21,3 +21,5 @@ To run the website locally on your machine, follow these steps:
     Visit http://localhost:3000 in your browser to view the website
 
 Feel free to contribute to the project by creating pull requests, reporting issues, or suggesting improvements. Together, we can make a difference in the lives of oppressed Muslim communities in China.
+
+Template: https://github.com/issaafalkattan/React-Landing-Page-Template
