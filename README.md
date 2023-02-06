@@ -10,7 +10,7 @@ The website features include:
     Detailed information on human rights violations
     Ways to take action and support the cause
 
-Getting Started
+##Getting Started
 
 To run the website locally on your machine, follow these steps:
 
